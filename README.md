@@ -6,7 +6,6 @@ Below, is the URL to my account on CodeWars:
   https://www.codewars.com/users/DaffCoding 
 
 Below, is the URL to my account on HackerRank:
-  
   https://www.hackerrank.com/DaffCoding
   
 ## Challenges

@@ -1,4 +1,4 @@
-# CodeWars / HackerRank Java/Kotlin Solutions
+# CodeWars - HackerRank Java/Kotlin Solutions
 
 This repository contains my solutions to various CodeWars challenges, implemented using Kotlin and/or Java programming languages. CodeWars is a website that offers programming challenges of varying difficulty levels, allowing developers to hone their skills in a fun and engaging way.
 

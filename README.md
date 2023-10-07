@@ -1,4 +1,6 @@
-# CodeWars - HackerRank Java/Kotlin Solutions
+# WorkingWhileWorking 
+
+## CodeWars - HackerRank Java/Kotlin Solutions
 
 This repository contains my solutions to various CodeWars challenges, implemented using Kotlin and/or Java programming languages. CodeWars is a website that offers programming challenges of varying difficulty levels, allowing developers to hone their skills in a fun and engaging way.
 
@@ -8,12 +10,14 @@ Below, is the URL to my account on CodeWars:
 Below, is the URL to my account on HackerRank:
   https://www.hackerrank.com/DaffCoding
   
-## Challenges
+## Format
 
 Each challenge is organized into a separate folder within the repository. Within each folder, you'll find the following files:
 
 - **problem.md:** This file contains the original prompt for the challenge, including any sample inputs and expected outputs.
 - **solution.kt or solution.java:** This file contains my implementation of the challenge, written in Kotlin or Java.
+- CW = CodeWars || HR = HackerRank
+
 
 ## Testing
 

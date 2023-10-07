@@ -10,7 +10,7 @@ Below, is the URL to my account on CodeWars:
 Below, is the URL to my account on HackerRank:
   https://www.hackerrank.com/DaffCoding
   
-# Format
+## Format
 
 Each challenge is organized into a separate folder within the repository. Within each folder, you'll find the following files:
 
